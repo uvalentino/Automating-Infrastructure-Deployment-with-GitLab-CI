@@ -1,7 +1,6 @@
 # Automating-Infrastructure-Deployment-with-GitLab-CI
 
-
-![Screenshot 2023-03-28 at 9 38 09 PM](https://user-images.githubusercontent.com/43399466/228301952-abc02ca2-9942-4a67-8293-f76647b6f9d8.png)
+![auto](https://github.com/uvalentino/Automating-Infrastructure-Deployment-with-GitLab-CI/assets/125161023/41b7cb86-86ee-4bb9-8e32-b9c2d4818fe4)
 
 
 ## Project Overview
