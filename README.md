@@ -84,7 +84,7 @@ Execute the following commands:
 
 Now, let's automate our Terraform deployments using GitLab CI/CD:
 
-- Create a .gitlab-ci.yml file: Define your CI/CD pipeline stages, jobs, and configuration.
+- Create a **.gitlab-ci.yml** file: Define your CI/CD pipeline stages, jobs, and configuration.
 
 **Running the Pipeline**
 
